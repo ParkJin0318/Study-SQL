@@ -12,5 +12,5 @@ INNER JOIN
   BASKET_B B
 ON
   A.FLUIT = B.FLUIT;
+-- BASKET_A 테이블과 BASKET_B을 FLUIT 컬럼 기준으로 조인한다.
 ```
-BASKET_A 테이블과 BASKET_B을 FLUIT 컬럼 기준으로 조인한다.
